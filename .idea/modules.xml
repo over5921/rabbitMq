@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/_01rabbitmqreceivejava/_01rabbitmqreceivejava.iml" filepath="$PROJECT_DIR$/_01rabbitmqreceivejava/_01rabbitmqreceivejava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_01rabbitmqsendjava/_01rabbitmqsendjava.iml" filepath="$PROJECT_DIR$/_01rabbitmqsendjava/_01rabbitmqsendjava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02rabbitmqreceivespringboot/_02rabbitmqreceivespringboot.iml" filepath="$PROJECT_DIR$/_02rabbitmqreceivespringboot/_02rabbitmqreceivespringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_02rabbitmqsendspringboot/_02rabbitmqsendspringboot.iml" filepath="$PROJECT_DIR$/_02rabbitmqsendspringboot/_02rabbitmqsendspringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/over_rabbitMq_work.iml" filepath="$PROJECT_DIR$/.idea/over_rabbitMq_work.iml" />
+    </modules>
+  </component>
+</project>
